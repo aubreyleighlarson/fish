@@ -1,0 +1,24 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.fish-type {
+  font-style: oblique
+}
+
+.highlight {
+  color: yellow
+}
+img {
+  float: right;
+}
+
+
+.column {
+  width: 500px;
+  float: right;
+}
